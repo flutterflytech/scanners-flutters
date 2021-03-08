@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17a839f-64c5-46fd-9520-4ce99f1200d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pNgtF48fJA6UtCiKMzSTMJLoOx" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/qrcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qr_code_screen.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/qrcode/qr_code_screen.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+        <item itemvalue="Flutter.qr_code_screen.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17a839f-64c5-46fd-9520-4ce99f1200d0" name="Default Changelist" comment="" />
+      <created>1615029174524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615029174524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1792" height="251" key="GridCell.Tab.0.bottom" timestamp="1615034150086">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="251" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1615034150086" />
+    <state width="1792" height="251" key="GridCell.Tab.0.center" timestamp="1615034150086">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="251" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1615034150086" />
+    <state width="1792" height="251" key="GridCell.Tab.0.left" timestamp="1615034150085">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="251" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1615034150085" />
+    <state width="1792" height="251" key="GridCell.Tab.0.right" timestamp="1615034150086">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1792" height="251" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1615034150086" />
+  </component>
+</project>
